@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Constraint Layout Demo</string>
+
+    <string name="hint_name">Nombre</string>
+    <string name="hint_lastname">Apellidos</string>
+    <string name="hint_email">Correo</string>
+    <string name="hint_gender">Genero</string>
+    <string name="hint_code">Lada</string>
+    <string name="hint_phone">Teléfono</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="hint_confirm_password">Confirmar Contraseña</string>
+    <string name="hint_bio">Biografía</string>
+
+    <string name="gender_male">Masculino</string>
+    <string name="gender_female">Femenino</string>
+
+</resources>
